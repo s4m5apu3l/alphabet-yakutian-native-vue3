@@ -56,17 +56,14 @@ onMounted(() => {
     onKeyPress: onKeyPress,
     layout: {
       default: [
-        
-        "q w e r t y u i o p",
-        "a s d f g h j k l",
-        "{shift} з x c ʃ b n m {backspace}",
-        "{numbers} {space} {ent}",
+        'q w e r t y u i ɔ p ʃ з œ',
+        'a s d f g h j k l ɟ ʎ',
+        '{shift} z x c b n m ŋ ɲ ɯ {backspace}',
+        "{numbers} {space} . , {ent}",
       ],
       shift: [
-        "Q W E R T Y U I O P",
-        "A S D F G H J K L",
-        "{shift} Z X C V B N M {backspace}",
-        "{numbers} {space} {ent}",
+        "ꭠ ꭡ ꭣ w",
+        "{shift} {numbers} {space} {ent}",
       ],
       numbers: ["1 2 3", "4 5 6", "7 8 9", "{abc} 0 {backspace}"],
     },
