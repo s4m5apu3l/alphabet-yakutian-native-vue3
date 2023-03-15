@@ -1,5 +1,7 @@
 # Saqalɯ: bu:kubalar
 
+# https://s4m5apu3l.github.io/alphabet-yakutian-native-vue3/dist/
+
 ## Todo
 -[ ] Add keyboard
 -[ ] Add styles
