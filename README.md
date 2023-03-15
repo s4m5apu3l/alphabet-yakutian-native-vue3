@@ -1,10 +1,13 @@
 # Saqalɯ: bu:kubalar
 
 ## Todo
--[ ] Add keyboard
--[ ] Add styles
--[ ] Add logic
--[ ] ---
+-[] Add keyboard
+
+-[] Add styles
+
+-[] Add logic
+
+-[] ---
 
 ## Recommended IDE Setup
 

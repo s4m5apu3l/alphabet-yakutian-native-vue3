@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 #app {
-  background-image: url(./assets/PaperBG.jpg);
+  background-image: url(assets/PaperBG.jpg);
   min-width: 320px;
 }
